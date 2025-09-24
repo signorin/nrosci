@@ -489,8 +489,8 @@ button.secondary {
 
 main img {
   max-width: 100%;
-  width: auto;
-  height: auto;
+  width: 400px;
+  height: 200px;
 }
 
 .icon {
